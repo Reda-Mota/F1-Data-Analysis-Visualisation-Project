@@ -18,13 +18,6 @@ An interactive web-based dashboard built with **Streamlit** to explore and analy
 
 ---
 
-## 📸 Screenshots
-
-*(Replace the placeholder links below with the actual paths to your images after uploading them to GitHub)*
-
-| Main Data Explorer (Home) | Ferrari Performance Analysis | Circuit Kings Analysis |
-|:---:|:---:|:---:|
-| <img src="insert_link_to_home_image_here" width="300"/> | <img src="insert_link_to_ferrari_image_here" width="300"/> | <img src="insert_link_to_monaco_image_here" width="300"/> |
 
 ---
 
